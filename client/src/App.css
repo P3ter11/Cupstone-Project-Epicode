@@ -1,0 +1,19 @@
+.scroll-bar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scroll-bar::-webkit-scrollbar-thumb{
+  background-color: #BFB5A9;
+  border-radius: 3px;
+}
+
+
+
+body{
+  background-image: url('./images/background.webp');
+  background-attachment: fixed;
+}
+
+
+
+
